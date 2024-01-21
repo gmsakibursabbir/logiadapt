@@ -292,6 +292,7 @@ p {
   background-color: var(--green);
   padding: 10px;
   border-radius: 10px;
+  color: var(--white);
 }
 /* === HERO END === */
 
